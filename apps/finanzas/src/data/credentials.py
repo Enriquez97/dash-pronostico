@@ -1,0 +1,2 @@
+TOKEN='0Q10D10N10D10O10Z1lpu0N10O10H10Q10D10N10D10O10Z1mkidfgsgk0Q10D10N10D10O10Z1lpu0Q10d10n10d10o10z1lpu0Q1ert45g0d10o123d45gqwsmkiqwsqwspoi0I1asd0o10A1lpumkimkiertlpuertsdfasdasdlpuertbhgnjhsdfqwsasdnjhdfgdfgrtgertrtgqws'
+API='http://69.64.92.160:3005/api/consulta/nsp_eeff_json'
